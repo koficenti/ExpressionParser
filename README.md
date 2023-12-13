@@ -1,4 +1,5 @@
 # ExpressionParser
+
 Made with "Rust" using "Recursive Descent"
 
 Last night (12/12/2023), I was programming in Elixir as one does but all the dynamic typing made me a little sick.
@@ -8,8 +9,6 @@ Nothing wrong with Elixir, just sometimes it requires more thought and oh well t
 And so I made this in Rust real quick. 
 
 ---
----
-
 
 The following is the output of the test, works well enough.
 Does in fact need some error handling so feel free to add that 😉
