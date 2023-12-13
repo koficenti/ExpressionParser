@@ -1,6 +1,5 @@
 use std::io::{self, Write};
 use std::iter::Peekable;
-use std::process::exit;
 use std::vec::IntoIter;
 
 #[derive(Clone)]
