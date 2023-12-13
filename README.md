@@ -9,6 +9,8 @@ And so I made this in Rust real quick.
 
 
 
+\n
+
 The following is the output of the test, works well enough.
 Does in fact need some error handling so feel free to add that 😉
 
